@@ -1,0 +1,13 @@
+{"level":30,"time":1702612727532,"pid":2029,"hostname":"74666ecdff4f","msg":"Initializing SQLite database at /home/runner/Bot-Any/sqlite/credits.db"}
+{"level":30,"time":1702612727536,"pid":2029,"hostname":"74666ecdff4f","msg":"Ensuring UserCredits table exists"}
+{"level":30,"time":1702612727536,"pid":2029,"hostname":"74666ecdff4f","msg":"CreditManager instance created."}
+{"level":30,"time":1702612727536,"pid":2029,"hostname":"74666ecdff4f","msg":"Initializing SQLite database at /home/runner/Bot-Any/sqlite/credits.db"}
+{"level":30,"time":1702612727537,"pid":2029,"hostname":"74666ecdff4f","msg":"Ensuring UserCredits table exists"}
+{"level":30,"time":1702612727537,"pid":2029,"hostname":"74666ecdff4f","msg":"CreditManager instance created."}
+{"level":30,"time":1702612727540,"pid":2029,"hostname":"74666ecdff4f","msg":"CreditHandler initialized"}
+{"level":30,"time":1702612749312,"pid":2029,"hostname":"74666ecdff4f","msg":"Fetching credits for user: 530285329047879681"}
+{"level":30,"time":1702612749313,"pid":2029,"hostname":"74666ecdff4f","msg":"Fetching credits for user 530285329047879681"}
+{"level":30,"time":1702612749313,"pid":2029,"hostname":"74666ecdff4f","msg":"Retrieved credits for user 530285329047879681:"}
+{"level":30,"time":1702612749313,"pid":2029,"hostname":"74666ecdff4f","msg":"Updating credits for user 530285329047879681 with data:"}
+{"level":30,"time":1702612749573,"pid":2029,"hostname":"74666ecdff4f","msg":"Credits updated for user 530285329047879681:"}
+{"level":30,"time":1702612749573,"pid":2029,"hostname":"74666ecdff4f","msg":"Updated user 530285329047879681 credits to 4815"}
